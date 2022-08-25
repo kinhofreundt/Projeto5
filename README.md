@@ -14,13 +14,13 @@
 
 
 ## Integrantes: 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+- <a href="https://www.linkedin.com/in/abner-silva-barbosa-8a3542225/">Abner Silva</a>
+- <a href="https://www.linkedin.com/in/erikfreundt/">Erik Freundt</a>
+- <a href="https://www.linkedin.com/in/gustavo-ferreira-oliveira/">Gustavo Ferreira</a> 
+- <a href="https://www.linkedin.com/in/mihaellalves/">Mihaell Alves</a> 
+- <a href="https://www.linkedin.com/in/paulo-evangelista/">Paulo Evangelista</a>
+- <a href="https://www.linkedin.com/in/thomas-brand-b37170238/">Thomas Brand</a> 
+- <a href="https://www.linkedin.com/in/vitor-zeferino/">Vitor Zeferino</a>
 
 ## 📝 Descrição
 
@@ -28,34 +28,20 @@ Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solu
 
 ## 📁 Estrutura de pastas
 
-```
-Alunos inteli (remover essa observação do readme.md após leitura e execução):
-
-Supondo que você é da Turma 4 e Projeto 5, substitua:
-
-T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.pdf
-por
-T4_G5_V01_Predictive_Model_Document.pdf
-
-Faça o mesmo para a documentação em formato DOCX.
-```
-
-|--> documentos<br>
-  &emsp;| --> outros <br>
-  &emsp;| T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.pdf<br>
-  &emsp;| T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.docx<br>
+|--> Documentação<br>
+  &emsp;| --> Antigos <br>
+  &emsp;| T1_G5_V04_Predictive_Model_Document.pdf<br>
 |--> notebooks<br>
-  &emsp;|--> T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> T1_G5_V04_Predictive_Model_Development.ipynb<br>
 | readme.md<br>
-| license.txt
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 - <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
-- <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>outros</b> onde estão presentes aqueles documentos complementares.
+- <b>Documentação</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>Antigos</b> onde estão presentes documentos prévios ao atual atualizado.
 
-- <b>notebooks</b>: todos os Jupyter Notebooks criados na plataforma Colab para desenvolvimento do projeto.
+- <b>Notebooks</b>: todos os Jupyter Notebooks criados na plataforma Colab para desenvolvimento do projeto.
 
 ## 💻 Execução dos projetos
 
@@ -66,18 +52,18 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 🗃 Histórico de lançamentos
 
-* 0.2.1 - 25/01/2022
-    * Atualização de documentos (código do módulo permanece inalterado).
-* 0.2.0 - 15/01/2022
-    * Remove `setDefaultXYZ()`
-    * Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * Crash quando chama `baz()`
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
+* 1.1 - 02/08/2022
+    * Início da documentação do projeto
+* 1.2 - 09/08/2022
+    * Documentação artefatos 1 ()
+* 1.3 - 11/08/2022
+    * Atualização e revisão do artefato 1
+* 1.4 - 11/08/2022
+    Documentação artefatos 2 ()
+* 1.5 - 12/08/2022
+    * Atualização e revisão do artefato 2
+* 2.1 - 12/08/2022
+    * Revisão personas e jornada do usuário
 
 ## 📋 Licença/License
 
