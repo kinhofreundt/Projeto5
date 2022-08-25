@@ -8,6 +8,11 @@
 
 ## Nome do grupo
 
+<h1>Os Pantufas</h1>
+
+![FotoPan](https://user-images.githubusercontent.com/99191656/186746888-968e3852-c663-4db3-8c84-7b9453551099.jpeg)
+
+
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
